@@ -50,6 +50,7 @@
         "@solana/web3.js": "^1.77.3",
         "@supabase/supabase-js": "^2.26.0",
         "axios": "^1.4.0",
+        "bs58": "^5.0.0",
         "framer-motion": "^10.12.18",
         "next": "^12.3.4",
         "react": "^18.2.0",
